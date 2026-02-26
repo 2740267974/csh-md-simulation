@@ -1,0 +1,11 @@
+# Ignore large trajectory files
+*.lammpstrj
+*.dump
+
+# Ignore log files
+*.log
+*.out
+*.lammps
+
+# Optional: ignore all output data (if too large)
+# Output/*
